@@ -5,7 +5,7 @@
 # 1. Репозиторийді компьютеріңізге көшіріп алу (Clone)
 Терминалды (немесе Command Prompt / Git Bash) ашып, мына команданы теріңіз:
 ```bash
-git clone [https://github.com/geekeraman/AI-ML-2026-KazNU.git](https://github.com/geekeraman/AI-ML-2026-KazNU.git)
+git clone https://github.com/geekeraman/AI-ML-2026-KazNU.git
 
 2. Жоба бумасына кіру
 Жүктеліп алынған папканың ішіне кіру үшін:
